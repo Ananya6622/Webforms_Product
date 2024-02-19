@@ -1,0 +1,10 @@
+C:\Users\anany\source\repos\Employee_Management_system\Employee_Management_system\bin\Debug\Employee_Management_system.exe.config
+C:\Users\anany\source\repos\Employee_Management_system\Employee_Management_system\bin\Debug\Employee_Management_system.exe
+C:\Users\anany\source\repos\Employee_Management_system\Employee_Management_system\bin\Debug\Employee_Management_system.pdb
+C:\Users\anany\source\repos\Employee_Management_system\Employee_Management_system\obj\Debug\Employee_Management_system.csproj.AssemblyReference.cache
+C:\Users\anany\source\repos\Employee_Management_system\Employee_Management_system\obj\Debug\Employee_Management_system.Form1.resources
+C:\Users\anany\source\repos\Employee_Management_system\Employee_Management_system\obj\Debug\Employee_Management_system.Properties.Resources.resources
+C:\Users\anany\source\repos\Employee_Management_system\Employee_Management_system\obj\Debug\Employee_Management_system.csproj.GenerateResource.cache
+C:\Users\anany\source\repos\Employee_Management_system\Employee_Management_system\obj\Debug\Employee_Management_system.csproj.CoreCompileInputs.cache
+C:\Users\anany\source\repos\Employee_Management_system\Employee_Management_system\obj\Debug\Employee_Management_system.exe
+C:\Users\anany\source\repos\Employee_Management_system\Employee_Management_system\obj\Debug\Employee_Management_system.pdb
